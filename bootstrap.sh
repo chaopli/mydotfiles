@@ -18,4 +18,4 @@ do
     fi
 done
 
-# vim +PluginInstall +qall
+vim +PluginInstall +qall
